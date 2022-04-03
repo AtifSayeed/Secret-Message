@@ -20,7 +20,7 @@ body{
     color: rgb(0, 0, 0);
     position:absolute;
     top:10%;
-    left:30%;
+    left:35%;
     padding: 1rem;
     text-align: center;
 }
@@ -70,6 +70,7 @@ padding: 0.5rem 1rem;;
     border-radius: 1rem;
     color:rgb(0, 0, 0);
     background: transparent;
+    font-size:1rem;
     
 }
 .btn:hover{
@@ -101,6 +102,9 @@ a{
     border-radius: 0.8rem;
     color:rgb(0, 0, 0);
     background: transparent;
+}
+.no{
+    font-size: 1.3rem;
 }
 
 @media (max-width:300px){
